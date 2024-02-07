@@ -22,7 +22,7 @@ Screenshots of our webpage is available to better guid you through our marketing
 
 ## Test
 The following link will take you to our website: <br>
- <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+ <a href="https://benravandi.github.io/challenge1/">Visit Horiseon.com!</a>
 
 
 
