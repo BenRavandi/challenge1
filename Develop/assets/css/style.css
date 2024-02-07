@@ -1,4 +1,5 @@
 /* CSS codes have been refactored and all the redundant ones were removed */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header gets font style & padding */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,6 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation bar on the top right side */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,11 +41,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Navigation links have white color with no text decoration */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Marketing image used as background with its own margines and styles */
 figure {
     height: 800px;
     width: 100%;
@@ -52,12 +57,14 @@ figure {
     background-position: center;
 }
 
+/* main section of list items & images on the left side */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Images moved to the left side of page */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,6 +75,7 @@ main {
     margin-left: 25px;
 }
 
+/* Section list items all evened up with the same margine stacked on the left side */
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -86,6 +94,7 @@ section h2 {
     font-size: 36px;
 }
 
+/* Side list items all located on the right side of the page with position direction of column */
 aside {
     margin-right: 20px;
     margin-bottom: 20px;
