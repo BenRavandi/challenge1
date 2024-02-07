@@ -17,7 +17,7 @@
 
 Screenshots of our webpage is available to better guid you through our marketing strategies:
 
-![Horiseon Marketing](./Develop/assets/images/HoriseonScreenshot.png)
+![Horiseon Marketing](./Develop/assets/images/HoriseonScreenshot.png?raw=true)
 
 
 ## Test
